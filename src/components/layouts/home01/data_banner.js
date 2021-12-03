@@ -1,7 +1,7 @@
 const bannerhome1 = [
   {
     id: 1,
-    srcimg: "assets/img/slider/slider-bg-2.jpg",
+    srcimg: "/constructionize/assets/img/slider/slider-bg-2.jpg",
     classnames:
       "tp-caption tp-resizeme text-white font-heading font-weight-600",
     classtext: "tp-caption tp-resizeme text-white font-heading font-weight-700",
@@ -15,7 +15,7 @@ const bannerhome1 = [
   },
   {
     id: 2,
-    srcimg: "assets/img/slider/slider-bg-1.jpeg",
+    srcimg: "/constructionize/assets/img/slider/slider-bg-1.jpeg",
     classnames:
       "tp-caption tp-resizeme text-white font-heading font-weight-600 text-center",
     classtext:
@@ -30,7 +30,7 @@ const bannerhome1 = [
   },
   {
     id: 3,
-    srcimg: "assets/img/slider/slider-bg-2.jpg",
+    srcimg: "/constructionize/assets/img/slider/slider-bg-2.jpg",
     classnames:
       "tp-caption tp-resizeme text-white font-heading font-weight-600 text-right",
     classtext:

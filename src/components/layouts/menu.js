@@ -64,11 +64,6 @@ const menus = [
         sub: "About Team",
         links: "/about-team",
       },
-      {
-        id: 4,
-        sub: "About Carees",
-        links: "/about-carees",
-      },
     ],
   },
 

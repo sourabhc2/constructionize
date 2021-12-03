@@ -8,17 +8,17 @@ class Service extends Component {
       slidecard: [
         {
           id: 1,
-          srcimg: "assets/img/imagebox/designbuild.jpg",
+          srcimg: "/constructionize/assets/img/imagebox/designbuild.jpg",
           heading: "DESIGN & BUILD",
         },
         {
           id: 2,
-          srcimg: "assets/img/imagebox/buildingenvelops.jpg",
+          srcimg: "/constructionize/assets/img/imagebox/buildingenvelops.jpg",
           heading: "BUILDING ENVELOPES",
         },
         {
           id: 3,
-          srcimg: "assets/img/imagebox/construction.jpg",
+          srcimg: "/constructionize/assets/img/imagebox/construction.jpg",
           heading: "CONSTRUCTION",
         },
       ],

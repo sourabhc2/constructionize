@@ -11,28 +11,28 @@ class ContentProject extends Component {
                         <div className="gallery-item">
                             <div className="inner">
                                 <div className="thumb">
-                                    <img src="assets/img/gallery/gallery-1-800x450.jpg" alt="imagealt" />
+                                    <img src="/constructionize/assets/img/gallery/gallery-1-800x450.jpg" alt="imagealt" />
                                 </div>
                             </div>
                         </div>
                         <div className="gallery-item">
                             <div className="inner">
                                 <div className="thumb">
-                                    <img src="assets/img/gallery/gallery-2-800x450.jpg" alt="imagealt" />
+                                    <img src="/constructionize/assets/img/gallery/gallery-2-800x450.jpg" alt="imagealt" />
                                 </div>
                             </div>
                         </div>
                         <div className="gallery-item">
                             <div className="inner">
                                 <div className="thumb">
-                                    <img src="assets/img/gallery/gallery-3-800x450.jpg" alt="imagealt" />
+                                    <img src="/constructionize/assets/img/gallery/gallery-3-800x450.jpg" alt="imagealt" />
                                 </div>
                             </div>
                         </div>
                         <div className="gallery-item">
                             <div className="inner">
                                 <div className="thumb">
-                                    <img src="assets/img/gallery/gallery-4-800x450.jpg" alt="imagealt" />
+                                    <img src="/constructionize/assets/img/gallery/gallery-4-800x450.jpg" alt="imagealt" />
                                 </div>
                             </div>
                         </div>
