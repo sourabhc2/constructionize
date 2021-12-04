@@ -8,28 +8,28 @@ class Project extends Component {
       data: [
         {
           id: 1,
-          srcimg: "/constructionize/assets/img/project/project1.jpg",
+          srcimg: "/assets/img/project/project1.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           meta: "Architecture",
           text: "Building",
         },
         {
           id: 2,
-          srcimg: "/constructionize/assets/img/project/project2.jpg",
+          srcimg: "/assets/img/project/project2.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           meta: "Architecture",
           text: "Building",
         },
         {
           id: 3,
-          srcimg: "/constructionize/assets/img/project/project3.jpg",
+          srcimg: "/assets/img/project/project3.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           meta: "Architecture",
           text: "Building",
         },
         {
           id: 4,
-          srcimg: "/constructionize/assets/img/project/project4.jpg",
+          srcimg: "/assets/img/project/project4.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           meta: "Architecture",
           text: "Building",

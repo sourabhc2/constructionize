@@ -11,7 +11,7 @@ class Footer extends Component {
                 <div className="textwidget">
                   <p>
                     <img
-                      src="/constructionize/assets/img/logo-white@2x.png"
+                      src="/assets/img/logo-white@2x.png"
                       alt="imagealt"
                       width={170}
                       height={34}
@@ -74,7 +74,7 @@ class Footer extends Component {
                   <li className="clearfix">
                     <div className="thumb data-effect-item has-effect-icon">
                       <img
-                        src="/constructionize/assets/img/news/post-1-65x65.jpg"
+                        src="/assets/img/news/post-1-65x65.jpg"
                         alt="imagealt"
                       />
                       <div className="overlay-effect bg-color-2" />
@@ -96,7 +96,7 @@ class Footer extends Component {
                   <li className="clearfix">
                     <div className="thumb data-effect-item has-effect-icon">
                       <img
-                        src="/constructionize/assets/img/news/post-2-65x65.jpg"
+                        src="/assets/img/news/post-2-65x65.jpg"
                         alt="imagealt"
                       />
                       <div className="overlay-effect bg-color-2" />
@@ -160,7 +160,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-1-83x83.jpg"
+                          src="/assets/img/instagram/instagram-1-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>
@@ -174,7 +174,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-2-83x83.jpg"
+                          src="/assets/img/instagram/instagram-2-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>
@@ -188,7 +188,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-3-83x83.jpg"
+                          src="/assets/img/instagram/instagram-3-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>
@@ -202,7 +202,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-4-83x83.jpg"
+                          src="/assets/img/instagram/instagram-4-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>
@@ -216,7 +216,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-5-83x83.jpg"
+                          src="/assets/img/instagram/instagram-5-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>
@@ -230,7 +230,7 @@ class Footer extends Component {
                     <Link to="#" target="_blank" className="data-effect-item">
                       <span className="item">
                         <img
-                          src="/constructionize/assets/img/instagram/instagram-6-83x83.jpg"
+                          src="/assets/img/instagram/instagram-6-83x83.jpg"
                           alt="imagealt"
                         />
                       </span>

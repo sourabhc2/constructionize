@@ -24,7 +24,7 @@ class Header extends Component {
                     alt="Constructionize"
                     width={186}
                     height={39}
-                    data-retina="assets/img/logo-small@2x.png"
+                    data-retina="/assets/img/logo-small@2x.png"
                     data-width={186}
                     data-height={39}
                   />

@@ -2,15 +2,10 @@ import Home01 from "./Home01";
 import AboutUs from "./AboutUs";
 import AboutDetails from "./AboutDetails";
 import AboutTeam from "./AboutTeam";
-
 import Services from "./Services";
 import ServiceDetail from "./ServiceDetail";
 import Projects from "./Projects";
 import ProjectDetail from "./ProjectDetail";
-import Testimonial from "./Testimonial";
-
-import Blog from "./Blog";
-import BlogSingle from "./BlogSingle";
 import Contact01 from "./Contact01";
 
 const routes = [
@@ -22,9 +17,6 @@ const routes = [
   { path: "/services-detail", component: ServiceDetail },
   { path: "/project", component: Projects },
   { path: "/project-detail", component: ProjectDetail },
-  { path: "/page-testimonial", component: Testimonial },
-  { path: "/blog", component: Blog },
-  { path: "/blog-single", component: BlogSingle },
   { path: "/contact-01", component: Contact01 },
 ];
 

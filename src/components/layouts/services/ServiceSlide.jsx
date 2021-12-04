@@ -27,7 +27,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/1.jpg"
+                            src="/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -54,7 +54,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/6.jpg"
+                            src="/assets/img/imagebox/6.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -81,7 +81,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/8.jpg"
+                            src="/assets/img/imagebox/8.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -108,7 +108,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/5.jpg"
+                            src="/assets/img/imagebox/5.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -135,7 +135,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/3.jpg"
+                            src="/assets/img/imagebox/3.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -162,7 +162,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/4.jpg"
+                            src="/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -205,7 +205,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/1.jpg"
+                            src="/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -230,7 +230,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/6.jpg"
+                            src="/assets/img/imagebox/6.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -256,7 +256,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/4.jpg"
+                            src="/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -281,7 +281,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/1.jpg"
+                            src="/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -306,7 +306,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/4.jpg"
+                            src="/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />

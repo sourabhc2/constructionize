@@ -7,32 +7,28 @@ class SiteContent extends Component {
       comments: [
         {
           id: 1,
-          srcimg:
-            "/constructionize/assets/img/testimonials/avatar-1-106x106.jpg",
+          srcimg: "/assets/img/testimonials/avatar-1-106x106.jpg",
           author: "Ignacio J. Reyes",
           postions: "Manager Human resources",
           text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis",
         },
         {
           id: 2,
-          srcimg:
-            "/constructionize/assets/img/testimonials/avatar-2-106x106.jpg",
+          srcimg: "/assets/img/testimonials/avatar-2-106x106.jpg",
           author: "Dana lewis",
           postions: "Executive vice president",
           text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis",
         },
         {
           id: 3,
-          srcimg:
-            "/constructionize/assets/img/testimonials/avatar-3-106x106.jpg",
+          srcimg: "/assets/img/testimonials/avatar-3-106x106.jpg",
           author: "Bill tomlinson",
           postions: "Manager, Aggregates",
           text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis",
         },
         {
           id: 4,
-          srcimg:
-            "/constructionize/assets/img/testimonials/avatar-4-106x106.jpg",
+          srcimg: "/assets/img/testimonials/avatar-4-106x106.jpg",
           author: "Scott berquist",
           postions: "Maketing Manager",
           text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis",

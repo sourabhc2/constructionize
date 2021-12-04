@@ -22,7 +22,7 @@ class Home01 extends Component {
       headers: [
         {
           id: 1,
-          logoweb: "/constructionize/assets/img/logo-small.png",
+          logoweb: "/assets/img/logo-small.png",
           names: "Home",
         },
       ],

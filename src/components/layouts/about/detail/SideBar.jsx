@@ -41,7 +41,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-1-83x83.jpg"
+                      src="/assets/img/instagram/instagram-1-83x83.jpg"
                       alt="altimage"
                     />
                   </span>
@@ -55,7 +55,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-2-83x83.jpg"
+                      src="/assets/img/instagram/instagram-2-83x83.jpg"
                       alt="altimage"
                     />
                   </span>
@@ -69,7 +69,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-3-83x83.jpg"
+                      src="/assets/img/instagram/instagram-3-83x83.jpg"
                       alt="altimage"
                     />
                   </span>
@@ -83,7 +83,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-4-83x83.jpg"
+                      src="/assets/img/instagram/instagram-4-83x83.jpg"
                       alt="altimage"
                     />
                   </span>
@@ -97,7 +97,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-5-83x83.jpg"
+                      src="/assets/img/instagram/instagram-5-83x83.jpg"
                       alt="altimage"
                     />
                   </span>
@@ -111,7 +111,7 @@ class SideBar extends Component {
                 <Link to="#" target="_blank" className="data-effect-item">
                   <span className="item">
                     <img
-                      src="/constructionize/assets/img/instagram/instagram-6-83x83.jpg"
+                      src="/assets/img/instagram/instagram-6-83x83.jpg"
                       alt="altimage"
                     />
                   </span>

@@ -22,40 +22,28 @@ class ContentProject extends Component {
             <div className="gallery-item">
               <div className="inner">
                 <div className="thumb">
-                  <img
-                    src="/constructionize/assets/img/gallery/1.jpg"
-                    alt="imagealt"
-                  />
+                  <img src="/assets/img/gallery/1.jpg" alt="imagealt" />
                 </div>
               </div>
             </div>
             <div className="gallery-item">
               <div className="inner">
                 <div className="thumb">
-                  <img
-                    src="/constructionize/assets/img/gallery/2.jpg"
-                    alt="imagealt"
-                  />
+                  <img src="/assets/img/gallery/2.jpg" alt="imagealt" />
                 </div>
               </div>
             </div>
             <div className="gallery-item">
               <div className="inner">
                 <div className="thumb">
-                  <img
-                    src="/constructionize/assets/img/gallery/3.jpg"
-                    alt="imagealt"
-                  />
+                  <img src="/assets/img/gallery/3.jpg" alt="imagealt" />
                 </div>
               </div>
             </div>
             <div className="gallery-item">
               <div className="inner">
                 <div className="thumb">
-                  <img
-                    src="/constructionize/assets/img/gallery/4.jpg"
-                    alt="imagealt"
-                  />
+                  <img src="/assets/img/gallery/4.jpg" alt="imagealt" />
                 </div>
               </div>
             </div>
