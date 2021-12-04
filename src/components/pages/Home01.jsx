@@ -121,7 +121,10 @@ class Home01 extends Component {
                               />
                               <div className="elm-button text-center">
                                 <Link
-                                  to="#"
+                                  to="/about-us"
+                                  onClick={() => {
+                                    window.location.href = "/about-us";
+                                  }}
                                   className="themesflat-button bg-accent"
                                 >
                                   ABOUT US
@@ -166,7 +169,10 @@ class Home01 extends Component {
                               />
                               <div className="elm-button text-center">
                                 <Link
-                                  to="#"
+                                  to="/services"
+                                  onClick={() => {
+                                    window.location.href = "/services";
+                                  }}
                                   className="themesflat-button bg-accent"
                                 >
                                   ALL SERVICES
@@ -212,7 +218,10 @@ class Home01 extends Component {
                                 />
                                 <div className="elm-button text-center">
                                   <Link
-                                    to="#"
+                                    to="/project"
+                                    onClick={() => {
+                                      window.location.href = "/project";
+                                    }}
                                     className="themesflat-button bg-accent"
                                   >
                                     ALL PROJECTS{" "}

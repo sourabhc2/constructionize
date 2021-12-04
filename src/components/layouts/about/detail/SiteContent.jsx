@@ -66,19 +66,19 @@ class SiteContent extends Component {
           id: 1,
           classnames: "accordion-item active",
           title: "our mission",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          text: "To safely deliver any project, any time, in any environment for the benefit of our customers, shareholders, employees and the communities we serve.",
         },
         {
           id: 2,
           classnames: "accordion-item",
           title: "our vision",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          text: "Constructionize Construction Company. is committed to building long-term relationships based on integrity, performance, value, and client satisfaction. We will continue to meet the changing needs of our clients with our quality services delivered by the most qualified people.",
         },
         {
           id: 3,
           classnames: "accordion-item",
-          title: "our technology",
-          text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          title: "Our Goal",
+          text: "To continue to fund its growth, Constructionize Contractors will be seeking $100,000 to $350,000 in additional funding. This may come from either investors or from additional loans. Any additional funds obtained will be for working capital and advertising.",
         },
       ],
     };
@@ -94,18 +94,16 @@ class SiteContent extends Component {
             data-smobile={60}
           />
           <div className="themesflat-headings style-2 clearfix">
-            <h2 className="heading">OUR COMPANIES</h2>
+            <h2 className="heading">WE ARE Constructionize</h2>
             <div className="sep has-width w80 accent-bg clearfix" />
             <p className="sub-heading line-height-24 text-777 margin-top-28 margin-right-12">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.Duis
-              aute irure dolor in reprehenderit in voluptate velit esse cillum
-              dolore eu fugiat nulla pariatur.
+              Constructionize is an construction company, proudly serving since
+              1991. We specialize in New Building Construction, Tenant
+              Improvements, Interior & Exterior Renovations, Building
+              Expansions.We are uncompromising in our pursuit of excellence.
+              Perhaps the greatest testament to our commitment to quality work
+              is the recognition we have garnered from our peers. Konstruct
+              projects have been honored with more than 600 national awards.
             </p>
           </div>
           <div

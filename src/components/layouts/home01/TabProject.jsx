@@ -9,7 +9,7 @@ class TabProject extends Component {
         {
           id: 1,
           classnames: "project-item green villa",
-          srcimg: "/constructionize/assets/img/project/project-1-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/1.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Green House",
           name02: "Villa",
@@ -17,7 +17,7 @@ class TabProject extends Component {
         {
           id: 2,
           classnames: "project-item architecture building construction",
-          srcimg: "/constructionize/assets/img/project/project-2-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/2.jpg",
           heading: "CAVAL RIDGE MINE PROJECT",
           name01: "Architecture",
           name02: "",
@@ -25,7 +25,7 @@ class TabProject extends Component {
         {
           id: 3,
           classnames: "project-item villa architecture building construction",
-          srcimg: "/constructionize/assets/img/project/project-3-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/3.jpg",
           heading: "GRAM HOTEL MAMZANA, MEWYORK",
           name01: "Green House",
           name02: "Villa",
@@ -33,7 +33,7 @@ class TabProject extends Component {
         {
           id: 4,
           classnames: "project-item green villa",
-          srcimg: "/constructionize/assets/img/project/project-4-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/4.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Green House",
           name02: "Villa",
@@ -41,7 +41,7 @@ class TabProject extends Component {
         {
           id: 5,
           classnames: "project-item architecture building construction",
-          srcimg: "/constructionize/assets/img/project/project-5-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/5.jpg",
           heading: "CAVAL RIDGE MINE PROJECT",
           name01: "Architecture",
           name02: "",
@@ -49,7 +49,7 @@ class TabProject extends Component {
         {
           id: 6,
           classnames: "project-item green",
-          srcimg: "/constructionize/assets/img/project/project-6-370x245.jpg",
+          srcimg: "/constructionize/assets/img/project/6.jpg",
           heading: "GRAM HOTEL MAMZANA, MEWYORK",
           name01: "Green House",
           name02: "Villa",

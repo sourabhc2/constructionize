@@ -8,7 +8,7 @@ class TabProjectFull extends Component {
         {
           id: 1,
           classnames: "project-item green villa",
-          srcimg: "/constructionize/assets/img/project/project-1-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/1.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -16,7 +16,7 @@ class TabProjectFull extends Component {
         {
           id: 2,
           classnames: "project-item green architecture building",
-          srcimg: "/constructionize/assets/img/project/project-2-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/2.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -24,7 +24,7 @@ class TabProjectFull extends Component {
         {
           id: 3,
           classnames: "project-item architecture building construction",
-          srcimg: "/constructionize/assets/img/project/project-3-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/3.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -32,7 +32,7 @@ class TabProjectFull extends Component {
         {
           id: 4,
           classnames: "project-item villa construction",
-          srcimg: "/constructionize/assets/img/project/project-4-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/4.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -40,7 +40,7 @@ class TabProjectFull extends Component {
         {
           id: 5,
           classnames: "project-item green villa",
-          srcimg: "/constructionize/assets/img/project/project-5-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/5.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -48,7 +48,7 @@ class TabProjectFull extends Component {
         {
           id: 6,
           classnames: "project-item green architecture building",
-          srcimg: "/constructionize/assets/img/project/project-6-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/6.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -56,7 +56,7 @@ class TabProjectFull extends Component {
         {
           id: 7,
           classnames: "project-item architecture building construction",
-          srcimg: "/constructionize/assets/img/project/project-7-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/1.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",
@@ -64,7 +64,7 @@ class TabProjectFull extends Component {
         {
           id: 8,
           classnames: "project-item villa construction",
-          srcimg: "/constructionize/assets/img/project/project-8-440x280.jpg",
+          srcimg: "/constructionize/assets/img/project/2.jpg",
           heading: "LAKE MEADOWS APARTMENTS",
           name01: "Architecture",
           name02: "Building",

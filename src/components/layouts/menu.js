@@ -34,11 +34,6 @@ const menus = [
       },
       {
         id: 2,
-        sub: "Projects Full Width",
-        links: "/project-full-width",
-      },
-      {
-        id: 3,
         sub: "Projects Detail",
         links: "/project-detail",
       },

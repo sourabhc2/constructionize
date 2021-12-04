@@ -6,7 +6,6 @@ import AboutTeam from "./AboutTeam";
 import Services from "./Services";
 import ServiceDetail from "./ServiceDetail";
 import Projects from "./Projects";
-import ProjectFullWidth from "./ProjectFullWidth";
 import ProjectDetail from "./ProjectDetail";
 import Testimonial from "./Testimonial";
 
@@ -22,7 +21,6 @@ const routes = [
   { path: "/services", component: Services },
   { path: "/services-detail", component: ServiceDetail },
   { path: "/project", component: Projects },
-  { path: "/project-full-width", component: ProjectFullWidth },
   { path: "/project-detail", component: ProjectDetail },
   { path: "/page-testimonial", component: Testimonial },
   { path: "/blog", component: Blog },

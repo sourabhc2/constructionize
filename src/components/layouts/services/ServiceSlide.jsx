@@ -27,18 +27,20 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-1-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">DESIGN-BUILD</Link>
+                            <Link to="#">General Contracting</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            We develop and understand project expectations and
-                            then manage those needs with a design [...]
+                            As the general contractor, we first create the
+                            highest level of trust and integrity with our
+                            clients. We value our role in the success of your
+                            project [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -52,18 +54,20 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-2-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/6.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">CONSTRUCTION MANAGEMENT</Link>
+                            <Link to="#">Construction Management</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            We work closely with architects to understand the
-                            project, and ultimately develop a targeted [...]
+                            We view our role as your advocate – we are here to
+                            ensure the project is designed and constructed
+                            within your budget and that you receive the level of
+                            [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -77,18 +81,20 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-3-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/8.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">METAL BUILDING SERVICES</Link>
+                            <Link to="#">Design-Build</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            In the past decade alone, we have completed more
-                            than 5 million square feet of metal [...]
+                            The underlying pillar of our philosophy for
+                            design-build projects is trust. By developing and
+                            fostering trust between the Owner, contractor, and
+                            engineer [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -102,18 +108,20 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-1-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/5.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">DESIGN-BUILD</Link>
+                            <Link to="#">Preconstruction & Planning</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            We develop and understand project expectations and
-                            then manage those needs with a design [...]
+                            At Constructionize Construction, our project teams –
+                            from project managers and superintendents to
+                            estimators and engineers – work diligently with
+                            [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -127,18 +135,20 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-2-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/3.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">CONSTRUCTION MANAGEMENT</Link>
+                            <Link to="#">Special Projects</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            We work closely with architects to understand the
-                            project, and ultimately develop a targeted [...]
+                            At Constructionize Construction, we realize that not
+                            every project fits neatly into a construction
+                            service category. Our special projects group works
+                            with [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -152,18 +162,19 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-3-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
                         </div>
                         <div className="text-wrap">
                           <h5 className="heading">
-                            <Link to="#">METAL BUILDING SERVICES</Link>
+                            <Link to="#">Sustainable Construction</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            In the past decade alone, we have completed more
-                            than 5 million square feet of metal [...]
+                            As construction professionals, we understand our
+                            responsibility to build and create with as little
+                            environmental impact as possible[...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -194,7 +205,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-4-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -219,7 +230,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-5-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/6.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -229,8 +240,9 @@ class ServiceSlide extends Component {
                             <Link to="#">PRECONSTRUCTION SERVICES</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Autora Construction Services provides the right
-                            resources and expertise to evaluate concepts [...]
+                            Constructionize Construction Services provides the
+                            right resources and expertise to evaluate concepts
+                            [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>
@@ -244,7 +256,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-6-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -269,7 +281,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-4-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/1.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -294,7 +306,7 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="/constructionize/assets/img/imagebox/image-box-5-370x215.jpg"
+                            src="/constructionize/assets/img/imagebox/4.jpg"
                             alt="altimage"
                           />
                           <div className="overlay-effect bg-color-accent" />
@@ -304,33 +316,9 @@ class ServiceSlide extends Component {
                             <Link to="#">PRECONSTRUCTION SERVICES</Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Autora Construction Services provides the right
-                            resources and expertise to evaluate concepts [...]
-                          </p>
-                          <div className="elm-readmore">
-                            <Link to="page-services-detail.html">DETAILS</Link>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="themesflat-image-box style-2 clearfix">
-                    <div className="image-box-item">
-                      <div className="inner">
-                        <div className="thumb data-effect-item">
-                          <img
-                            src="/constructionize/assets/img/imagebox/image-box-6-370x215.jpg"
-                            alt="altimage"
-                          />
-                          <div className="overlay-effect bg-color-accent" />
-                        </div>
-                        <div className="text-wrap">
-                          <h5 className="heading">
-                            <Link to="#">CONCRETE STRUCTURES</Link>
-                          </h5>
-                          <p className="letter-spacing-01">
-                            We employs a talented team of industry leading
-                            professionals capable of self-performing [...]
+                            Constructionize Construction Services provides the
+                            right resources and expertise to evaluate concepts
+                            [...]
                           </p>
                           <div className="elm-readmore">
                             <Link to="page-services-detail.html">DETAILS</Link>

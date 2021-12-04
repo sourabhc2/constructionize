@@ -7,52 +7,52 @@ class Partner extends Component {
       partner: [
         {
           id: 1,
-          img: "/constructionize/assets/img/partners/partner-1.png",
+          img: "/constructionize/assets/img/partners/partner-1.jpg",
           imgcolor: "assets/img/partners/partner-1-color.png",
         },
         {
           id: 2,
-          img: "/constructionize/assets/img/partners/partner-2.png",
+          img: "/constructionize/assets/img/partners/partner-2.jpg",
           imgcolor: "assets/img/partners/partner-2-color.png",
         },
         {
           id: 3,
-          img: "/constructionize/assets/img/partners/partner-3.png",
+          img: "/constructionize/assets/img/partners/partner-3.jpg",
           imgcolor: "assets/img/partners/partner-3-color.png",
         },
         {
           id: 4,
-          img: "/constructionize/assets/img/partners/partner-4.png",
+          img: "/constructionize/assets/img/partners/partner-4.jpg",
           imgcolor: "assets/img/partners/partner-4-color.png",
         },
         {
           id: 5,
-          img: "/constructionize/assets/img/partners/partner-5.png",
+          img: "/constructionize/assets/img/partners/partner-5.jpg",
           imgcolor: "assets/img/partners/partner-5-color.png",
         },
         {
           id: 6,
-          img: "/constructionize/assets/img/partners/partner-1.png",
+          img: "/constructionize/assets/img/partners/partner-1.jpg",
           imgcolor: "assets/img/partners/partner-1-color.png",
         },
         {
           id: 7,
-          img: "/constructionize/assets/img/partners/partner-2.png",
+          img: "/constructionize/assets/img/partners/partner-2.jpg",
           imgcolor: "assets/img/partners/partner-2-color.png",
         },
         {
           id: 8,
-          img: "/constructionize/assets/img/partners/partner-3.png",
+          img: "/constructionize/assets/img/partners/partner-3.jpg",
           imgcolor: "assets/img/partners/partner-3-color.png",
         },
         {
           id: 9,
-          img: "/constructionize/assets/img/partners/partner-4.png",
+          img: "/constructionize/assets/img/partners/partner-4.jpg",
           imgcolor: "assets/img/partners/partner-4-color.png",
         },
         {
           id: 10,
-          img: "/constructionize/assets/img/partners/partner-5.png",
+          img: "/constructionize/assets/img/partners/partner-5.jpg",
           imgcolor: "assets/img/partners/partner-5-color.png",
         },
       ],

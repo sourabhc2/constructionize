@@ -84,7 +84,13 @@ class About extends Component {
                   data-smobile={35}
                 />
                 <div className="elm-button">
-                  <Link to="#" className="themesflat-button bg-white">
+                  <Link
+                    to="/contact-01"
+                    onClick={() => {
+                      window.location.href = "/contact-01";
+                    }}
+                    className="themesflat-button bg-white"
+                  >
                     GET IN TOUCH
                   </Link>
                 </div>

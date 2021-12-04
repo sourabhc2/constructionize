@@ -103,7 +103,13 @@ class Slider extends Component {
                 data-splitout="none"
                 data-responsive_offset="on"
               >
-                <Link to="#" className="themesflat-button bg-accent big">
+                <Link
+                  to="/contact-01"
+                  onClick={() => {
+                    window.location.href = "/contact-01";
+                  }}
+                  className="themesflat-button bg-accent big"
+                >
                   <span>GET IN TOUCH</span>
                 </Link>
               </div>

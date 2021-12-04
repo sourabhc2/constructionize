@@ -16,13 +16,13 @@ class IconBox extends Component {
           id: 2,
           icon: "autora-icon-time",
           title: "ON TIME",
-          text: "Constructionize Construction Services are committed to meeting the highest quality standards without compromising our safety culture..",
+          text: "For us, honesty is the only policy and we strive to complete all projects with integrity. We are one of the most trusted construction companies in US",
         },
         {
           id: 3,
           icon: "autora-icon-author",
           title: "EXPERIENCED",
-          text: "Constructionize Construction Services are committed to meeting the highest quality standards without compromising our safety culture..",
+          text: "We bring you the benefit, each with over 20 years experience. we know exactly what is required, and when it needs to be done.",
         },
       ],
     };

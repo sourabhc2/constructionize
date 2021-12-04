@@ -9,9 +9,9 @@ class Banner extends Component {
                         <div id="breadcrumbs">
                             <div className="breadcrumbs-inner">
                                 <div className="breadcrumb-trail">
-                                    <Link to="home.html" className="trail-begin">Home</Link>
+                                    <Link to="#" className="trail-begin">Home</Link>
                                     <span className="sep">|</span>
-                                    <Link to="page-about.html" className="trail-begin">About us </Link>
+                                    <Link to="#" className="trail-begin">About us </Link>
                                     <span className="sep">|</span>
                                     <span className="trail-end">About us detail</span>
                                 </div>
