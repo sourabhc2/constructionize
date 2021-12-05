@@ -9,56 +9,8 @@ class LeaderTeam extends Component {
         {
           id: 1,
           srcimg: "/assets/img/team/member-1-370x359.jpg",
-          name: "Aaron Stanley",
-          position: "Project Manager",
-        },
-        {
-          id: 2,
-          srcimg: "/assets/img/team/member-2-370x359.jpg",
-          name: "David Gunsul",
-          position: "President",
-        },
-        {
-          id: 3,
-          srcimg: "/assets/img/team/member-3-370x359.jpg",
-          name: "Richard Johnson",
-          position: "Safety Director",
-        },
-        {
-          id: 4,
-          srcimg: "/assets/img/team/member-1-370x359.jpg",
-          name: "Aaron Stanley",
-          position: "Project Manager",
-        },
-        {
-          id: 5,
-          srcimg: "/assets/img/team/member-2-370x359.jpg",
-          name: "David Gunsul",
-          position: "President",
-        },
-        {
-          id: 6,
-          srcimg: "/assets/img/team/member-3-370x359.jpg",
-          name: "Richard Johnson",
-          position: "Safety Director",
-        },
-        {
-          id: 7,
-          srcimg: "/assets/img/team/member-1-370x359.jpg",
-          name: "Aaron Stanley",
-          position: "Project Manager",
-        },
-        {
-          id: 8,
-          srcimg: "/assets/img/team/member-2-370x359.jpg",
-          name: "David Gunsul",
-          position: "President",
-        },
-        {
-          id: 9,
-          srcimg: "/assets/img/team/member-3-370x359.jpg",
-          name: "Richard Johnson",
-          position: "Safety Director",
+          name: "Kamaldeep Singh",
+          position: " Director",
         },
       ],
     };

@@ -1,7 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 import emailjs from "emailjs-com";
 
 export const FormContact = () => {
+  const [name, setName] = useState("");
+  const [phone, setPhone] = useState("");
+  const [email, setEmail] = useState("");
+  const [subject, setSubject] = useState("");
+  const [message, setMessage] = useState("");
   const sendEmail = (e) => {
     e.preventDefault();
 
@@ -15,6 +20,11 @@ export const FormContact = () => {
       .then(
         (result) => {
           console.log(result.text);
+          setEmail("");
+          setMessage("");
+          setName("");
+          setPhone("");
+          setSubject("");
         },
         (error) => {
           console.log(error.text);
@@ -52,9 +62,10 @@ export const FormContact = () => {
               tabIndex={1}
               id="Name"
               name="dzName"
-              defaultValue={""}
               className="wpcf7-form-control"
               placeholder="Name*"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
               required
             />
           </span>
@@ -64,9 +75,10 @@ export const FormContact = () => {
               tabIndex={2}
               id="phone"
               name="dzPhone"
-              defaultValue={""}
               className="wpcf7-form-control"
               placeholder="Phone"
+              value={phone}
+              onChange={(e) => setPhone(e.target.value)}
             />
           </span>
           <span className="wpcf7-form-control-wrap your-email">
@@ -75,9 +87,10 @@ export const FormContact = () => {
               tabIndex={3}
               id="email"
               name="dzEmail"
-              defaultValue={""}
               className="wpcf7-form-control"
               placeholder="Your Email*"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
               required
             />
           </span>
@@ -87,9 +100,10 @@ export const FormContact = () => {
               tabIndex={4}
               id="subject"
               name="dzSubject"
-              defaultValue={""}
               className="wpcf7-form-control"
               placeholder="Subject"
+              value={subject}
+              onChange={(e) => setSubject(e.target.value)}
             />
           </span>
           <span className="wpcf7-form-control-wrap your-message">
@@ -101,7 +115,8 @@ export const FormContact = () => {
               className="wpcf7-form-control wpcf7-textarea"
               placeholder="Message*"
               required
-              defaultValue={""}
+              value={message}
+              onChange={(e) => setMessage(e.target.value)}
             />
           </span>
           <span className="wrap-submit">
